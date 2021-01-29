@@ -1,0 +1,64 @@
+
+body {
+	background-image: url(../images/bumper2_nasa_1500.jpg);
+	border:0;
+	font:20px Arial, Helvetica, sans-serif;
+	background-color: black;
+	line-height:40px;
+}
+
+#eins{
+	display: flex; 
+    justify-content: center; 
+    align-items: center;
+    margin-top: 30px;
+    width: 1000px;
+	
+	background-color: lightgray;
+   
+}
+#one{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#two{
+
+display: flex;
+justify-content: center;
+align-items: center;}
+#zwei{
+
+	
+	display: flex; 
+    justify-content: center; 
+    align-items: center;
+    margin-top: 30px;
+    width: 1000px;
+	
+	background-color: lightgray;
+   
+}
+#box{
+	background-size: cover;
+	background-image: url(6.jpg);
+}
+#menu{
+	word-spacing: 10px;
+}
+a:link{
+		color: white;
+		text-decoration: none;
+	}
+a:active{
+	color: white;
+	text-decoration: none;
+}
+
+a:visited{
+	color: white;
+	text-decoration: none;
+}
+#menu{
+margin-left: 5px;
+}
